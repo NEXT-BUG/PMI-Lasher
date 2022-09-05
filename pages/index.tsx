@@ -27,6 +27,21 @@ const Home: NextPage = () => {
             alt="bg"
           />
         </div>
+        <div className="bg-[#5A4371] p-10 md:space-y-10 text-center">
+          <h1 className="text-white text-xl md:text-5xl lg:text-6xl font-bold">
+            A World Class Supplier of Lashing Materials
+          </h1>
+          <div className="flex items-center w-full justify-between">
+            <p className="text-white text-2xl w-1/2 text-left">
+              Technology by itself doesn't make good problem solvers, technology
+              magnifies your analytical. by itself doesn't make good problem
+              solvers, technology magnifies your analytical skill technology by
+              itself doesn't make good problem solvers, technology magnifies
+              your analytical
+            </p>
+            <img src="https://i.ibb.co/N2VcT7X/logo.png" />
+          </div>
+        </div>
       </main>
     </div>
   );
