@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+body {
+  background-color: #253485;
+}
+
 @layer components {
   .navBtn {
     @apply cursor-pointer font-semibold text-xl;
