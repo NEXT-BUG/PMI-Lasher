@@ -4,7 +4,7 @@ import { Bars3Icon, MagnifyingGlassIcon } from "@heroicons/react/24/solid";
 
 const Header = () => {
   return (
-    <div className="mt-10 w-screen bg-white py-4 px-10 flex items-center justify-between">
+    <div className="md:mt-10 w-screen bg-white py-4 px-10 flex items-center justify-between">
       <div className="w-32">
         <Image src={require("../assets/img/logo.png")} alt="logo" />
       </div>
